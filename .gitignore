@@ -208,4 +208,4 @@ __marimo__/
 /data
 
 #DVC files
-data.dvc
+#data.dvc
